@@ -13,7 +13,7 @@ HOW TO RUN: Open the index.html file on your browser.
 
 Support: Email jade.marie.abel@gmail.com
 
-Roadmap: In the future, their could be more eyes. Different CSS styling or imported images could be used so that there are different pairs of eyes (lion, tiger, bear etc.).
+Roadmap: In the future, there could be more eyes. Different CSS styling or imported images could be used so that there are different pairs of eyes (lion, tiger, bear etc.).
 
 License information:
 MIT License
