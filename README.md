@@ -5,11 +5,11 @@
 In my best MJ voice - "I always feel like somebody's watching me".
 
 Project Title: Eye Exercise
-Description: As you move your pointer across the screen, the eyes follow. This movement is performed using the 'onmouseover' event. The eyes were created using CSS. 
+Description: As you move your pointer across the screen, the eyes follow. This movement is performed using the 'onmouseover' event. The eyes were created using CSS.
 
 Usage: FUN
 
-HOW TO RUN: Open the index.html file on your browser.
+HOW TO RUN: Open the index.html file on your browser. You may need to clone this repository to your machine.
 
 Support: Email jade.marie.abel@gmail.com
 
